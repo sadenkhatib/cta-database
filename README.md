@@ -19,7 +19,8 @@ Use the numbered menu options to run different analyses, such as finding station
 - Locate stations within a mile radius on a map  
 
 ## Database  
-This app connects to the  `CTA2_L_daily_ridership.db` SQLite database to fetch data. Link: https://drive.google.com/file/d/1LlVIpJ-m1bfYTGnJRyVu-HZac-xoh0ho/view
+This app connects to the  `CTA2_L_daily_ridership.db` SQLite database to fetch data. 
+Database file link: https://drive.google.com/file/d/1LlVIpJ-m1bfYTGnJRyVu-HZac-xoh0ho/view
 
 ## Notes  
 - Coordinates should be within Chicago limits when searching nearby stations.  
