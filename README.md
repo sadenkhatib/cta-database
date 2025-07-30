@@ -24,9 +24,4 @@ This app connects to the `CTA2_L_daily_ridership.db` SQLite database to fetch da
 ## Notes  
 - Coordinates should be within Chicago limits when searching nearby stations.  
 - Many commands support data visualization using Matplotlib.
-"""
 
-with open("README.md", "w") as f:
-    f.write(readme_text)
-
-print("README.md file created successfully.")
