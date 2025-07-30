@@ -1,4 +1,3 @@
-readme_text = """
 # CTA Database Navigator
 
 ## Overview  
